@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis
 
 ## Overview of the Analysis
-Pewlet Hackard's HR analyst, Bobby, has been tasked by his manager with determining the number of retiring employees per title as well as identifying those employees who are eligible to participate in a mentorship program. I have assisted Bobby with this assessment in order to preppare Bobby's manger for theh "silver tsunami" as many current employees are reaching retirement age.
+Pewlet Hackard's HR analyst, Bobby, has been tasked by his manager with determining the number of retiring employees per title as well as identifying those employees who are eligible to participate in a mentorship program. I have assisted Bobby with this assessment in order to preppare Bobby's manger for the "silver tsunami" as many current employees are reaching retirement age.
 
 ## Results
 
