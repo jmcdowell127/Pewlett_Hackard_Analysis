@@ -23,7 +23,7 @@ Pewlet Hackard's HR analyst, Bobby, has been tasked by his manager with determin
   * These employees were born in 1965 which puts them at an age of ~56 years old. 
   * These employees joined Pewlett Hackard between a 17 year range of 1985 and 2002.
   * Below is a small portion of a table created to determine those employees who are eligible for the mentorship program:
-    <img width="520" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/85372441/128643540-e18c3443-b05d-4f75-9aa3-4d252f5b74af.png">
+   * <img width="520" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/85372441/128643540-e18c3443-b05d-4f75-9aa3-4d252f5b74af.png">
 
 ## Summary
 * There will be 90,398 job roles to be filled as the "silver tsunami" begins to make a big impact.
