@@ -32,7 +32,7 @@ SELECT COUNT(ut.title), ut.title
 INTO retiring_titles
 FROM unique_titles AS ut
 GROUP BY ut.title
-ORDER BY COUNT(title) DESC;
+ORDER BY COUNT(ut.title) DESC;
 
 
 ----------- DELIVERABLE 2 ------------
