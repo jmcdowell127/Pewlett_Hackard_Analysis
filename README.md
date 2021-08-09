@@ -16,7 +16,8 @@ Pewlet Hackard's HR analyst, Bobby, has been tasked by his manager with determin
     * ##### The unique titles table:
     * <img width="355" alt="unique_titles" src="https://user-images.githubusercontent.com/85372441/128643142-a8048b81-be41-4ae9-82cb-a7e0ccfadcb3.png">
     * ##### The retiring titles table:
-    * <img width="149" alt="retiring_titles" src="https://user-images.githubusercontent.com/85372441/128643167-1c56b909-0428-4c10-8e3a-34d41297439e.png">
+    * <img width="181" alt="retiringTitles" src="https://user-images.githubusercontent.com/85372441/128652037-5d0f1995-a02e-4685-82fb-49878b1dc73b.png">
+
 
 #### Employees Eligible for the Mentorship Program
   * There are a total of 1,549 employees who are eligible for the mentorship program. This amounts to a very low ~0.02% of the retirement-ready employees.
